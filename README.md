@@ -94,7 +94,7 @@ Passion: Exploring gameplay mechanics & systems
 <td width="50%">
 
 ### 🏰 **Defense Craft**
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300" />
+
 
 **Tech Stack:**
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
